@@ -5,7 +5,7 @@
 -----
 
 <div align="center" >
-  <img  src="assets/img1.gif" height="500px" />
+  <img  src="assets/img1.gif" height="500px" width="250px"/>
   <img  src="assets/img2.jpeg" height="500px" />
   <img  src="assets/img3.jpeg" height="500px" />
 </div>
